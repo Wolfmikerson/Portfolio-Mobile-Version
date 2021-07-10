@@ -1,8 +1,5 @@
 
-# Porfolio Project
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Porfolio Project
+Portfolio: setup and mobile version
 
 > One paragraph statement about the project.
 > This is my portfolio as a software developer
