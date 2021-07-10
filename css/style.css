@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
 }
- 
 
 /* Defaults Custom Fonts */
 .default-custom-fonts {
@@ -24,12 +23,13 @@
 }
 
 .default-list-style {
-  list-style: none; 
+  list-style: none;
   align-items: center;
   margin-top: 12px;
   margin-bottom: 136px;
   padding: 0;
 }
+
 /* nav bar styling */
 .navbar-contener {
   width: 100%;
@@ -55,8 +55,8 @@
 }
 
 .primary-text {
-   width: 250px;
-   margin-top: 114px;
+  width: 250px;
+  margin-top: 114px;
 }
 
 .support-text-font {
@@ -75,7 +75,7 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  color:#7f8cff;
+  color: #7f8cff;
   margin-top: 12px;
 }
 
