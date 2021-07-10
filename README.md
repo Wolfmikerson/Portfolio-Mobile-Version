@@ -1,12 +1,9 @@
 
 Portfolio: setup and mobile version
 
-> One paragraph statement about the project.
-> This is my portfolio as a software developer
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
