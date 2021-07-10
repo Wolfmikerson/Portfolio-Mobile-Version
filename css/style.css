@@ -1,15 +1,86 @@
-#navbar {
-  position: fixed;
-  left: 0;
+.margin-none {
+  margin: 0;
+  padding: 0;
+}
+ 
+
+/* Defaults Custom Fonts */
+.default-custom-fonts {
+  font-family: Poppins, Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #172b4d;
 }
 
-#main-doc {
-  margin-left: 280px;
+/* create a flex class */
+
+.default-display-flex {
+  display: flex;
+  justify-content: flex-start;
 }
 
-@media (min-width: 1281px) {
-  /* CSS */
-  p {
-    background-color: blue;
-  }
+.default-list-style {
+  list-style: none; 
+  align-items: center;
+  margin-top: 12px;
+  margin-bottom: 136px;
+}
+/* nav bar styling */
+.navbar-contener {
+  width: 100%;
+  padding: 10px 0;
+  margin-top: 44px;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-left: 12px;
+}
+
+.menu {
+  margin-right: 18px;
+}
+
+.logo-font {
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  color: #6070ff;
+  text-decoration: none;
+}
+
+.primary-text {
+   width: 250px;
+   margin-top: 114px;
+}
+
+.support-text-font {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #344563;
+}
+
+.support-text-headline {
+  margin-top: 12px;
+  width: 327px;
+}
+
+.lets-text-font {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color:#7f8cff;
+  margin-top: 12px;
+}
+
+.headline {
+  flex-direction: column;
+  align-items: center;
+  background: url("images/header_background.png") no-repeat center;
+  height: 100vh;
 }
