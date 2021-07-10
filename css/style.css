@@ -28,6 +28,7 @@
   align-items: center;
   margin-top: 12px;
   margin-bottom: 136px;
+  padding: 0;
 }
 /* nav bar styling */
 .navbar-contener {
@@ -81,6 +82,11 @@
 .headline {
   flex-direction: column;
   align-items: center;
-  background: url("images/header_background.png") no-repeat center;
-  height: 100vh;
+  background-image: url("images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.display-list-item {
+  margin-right: 20px;
 }
