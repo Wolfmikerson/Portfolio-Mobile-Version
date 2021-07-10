@@ -2,7 +2,7 @@
 Portfolio: setup and mobile version
 
 
-![screenshot](https://imgur.com/tPMZxHx)
+![screenshot](https://i.imgur.com/tPMZxHx.png)
 
 
 ## Built With
