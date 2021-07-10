@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-# Review Trial Project
+
+# Porfolio Project
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Review Trial Project
+# Porfolio Project
 
 > One paragraph statement about the project.
-> This is a review on one of my trial project
+> This is my portfolio as a software developer
 
 ![screenshot](./app_screenshot.png)
 
